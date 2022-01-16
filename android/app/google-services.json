@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444803445203",
+    "project_id": "alteon-project",
+    "storage_bucket": "alteon-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444803445203:android:ee69565a355f7a3bb47f26",
+        "android_client_info": {
+          "package_name": "com.omen.sepatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444803445203-1g7ccsujr6885g9sr250pvfv817qoqjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUe6oVI3ygiNdZMcPhOedjMxbhP5jk8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444803445203-1g7ccsujr6885g9sr250pvfv817qoqjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
