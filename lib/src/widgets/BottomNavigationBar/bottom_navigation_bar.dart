@@ -163,7 +163,7 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar>
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: <Widget>[
                 _icon(Icons.home, _selectedIndex == 0, 0),
-                _icon(Icons.search, _selectedIndex == 1, 1),
+                _icon(Icons.shopping_basket, _selectedIndex == 1, 1),
                 _icon(Icons.contact_mail_sharp, _selectedIndex == 3, 3),
               ],
             ),

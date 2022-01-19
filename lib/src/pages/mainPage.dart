@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sepatu/src/pages/home_page.dart';
+import 'package:sepatu/src/pages/keranjang.dart';
 import 'package:sepatu/src/themes/light_color.dart';
 import 'package:sepatu/src/themes/theme.dart';
 import 'package:sepatu/src/widgets/BottomNavigationBar/bottom_navigation_bar.dart';
@@ -45,6 +46,7 @@ class _MainPageState extends State<MainPage> {
         ],
       ),
     );
+
   }
 
   Widget _icon(IconData icon, {Color color = LightColor.iconColor}) {
